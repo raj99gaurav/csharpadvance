@@ -1,0 +1,13 @@
+C:\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Projects\Generics\Generics\obj\Debug\Generics.pdb
+E:\vscomp\Udemy\C#+Advanced+Source+Files\Generics\Generics\bin\Debug\Generics.exe.config
+E:\vscomp\Udemy\C#+Advanced+Source+Files\Generics\Generics\bin\Debug\Generics.exe
+E:\vscomp\Udemy\C#+Advanced+Source+Files\Generics\Generics\bin\Debug\Generics.pdb
+E:\vscomp\Udemy\C#+Advanced+Source+Files\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+E:\vscomp\Udemy\C#+Advanced+Source+Files\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+E:\vscomp\Udemy\C#+Advanced+Source+Files\Generics\Generics\obj\Debug\Generics.exe
+E:\vscomp\Udemy\C#+Advanced+Source+Files\Generics\Generics\obj\Debug\Generics.pdb
