@@ -1,0 +1,13 @@
+E:\vscomp\Udemy\EventsSolution\EventsProject\bin\Debug\netcoreapp3.1\EventsProject.exe
+E:\vscomp\Udemy\EventsSolution\EventsProject\bin\Debug\netcoreapp3.1\EventsProject.deps.json
+E:\vscomp\Udemy\EventsSolution\EventsProject\bin\Debug\netcoreapp3.1\EventsProject.runtimeconfig.json
+E:\vscomp\Udemy\EventsSolution\EventsProject\bin\Debug\netcoreapp3.1\EventsProject.runtimeconfig.dev.json
+E:\vscomp\Udemy\EventsSolution\EventsProject\bin\Debug\netcoreapp3.1\EventsProject.dll
+E:\vscomp\Udemy\EventsSolution\EventsProject\bin\Debug\netcoreapp3.1\EventsProject.pdb
+E:\vscomp\Udemy\EventsSolution\EventsProject\obj\Debug\netcoreapp3.1\EventsProject.csprojAssemblyReference.cache
+E:\vscomp\Udemy\EventsSolution\EventsProject\obj\Debug\netcoreapp3.1\EventsProject.AssemblyInfoInputs.cache
+E:\vscomp\Udemy\EventsSolution\EventsProject\obj\Debug\netcoreapp3.1\EventsProject.AssemblyInfo.cs
+E:\vscomp\Udemy\EventsSolution\EventsProject\obj\Debug\netcoreapp3.1\EventsProject.csproj.CoreCompileInputs.cache
+E:\vscomp\Udemy\EventsSolution\EventsProject\obj\Debug\netcoreapp3.1\EventsProject.dll
+E:\vscomp\Udemy\EventsSolution\EventsProject\obj\Debug\netcoreapp3.1\EventsProject.pdb
+E:\vscomp\Udemy\EventsSolution\EventsProject\obj\Debug\netcoreapp3.1\EventsProject.genruntimeconfig.cache
